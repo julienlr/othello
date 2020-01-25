@@ -1,2 +1,12 @@
-# othello
-Code of the Othello game
+# Othello game
+
+Simple example of the Othello game
+
+## Auteur
+
+Julien Le Roux
+
+## Langage utilisé
+
+- C
+
